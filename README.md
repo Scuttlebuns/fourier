@@ -59,7 +59,7 @@ And display a **waveform plot** with a **gray background** and ** blue visualiza
 - Supports **multi-channel visualization**.
 
 ## Future Enhancements
-- ✅ **Additional frequency domain analysis (FFT)**
+-  **Additional frequency domain analysis (FFT)**
 ---
 
 This project is a simple but effective way to **visualize audio waveforms in Python**!
